@@ -14,4 +14,4 @@ Lord, I'm one, Lord, I'm two,<br>
 Lord, I'm three, Lord, I'm four<br>
 Lord, I'm five hundred miles away from home<br>
 
-![Signac](../_images/Place_des_Lices_Paul_Signac.jpg)
+![Signac](../_images/1024px-Paul_Signac,_Grand_Canal_(Venise).jpg)
